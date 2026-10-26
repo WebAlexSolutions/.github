@@ -1,131 +1,185 @@
 <p align="center">
-  <img src="https://github.com/WebAlexSolutions.png?size=240" alt="Logo WebAlex Solutions" width="160" />
+  <img src="https://github.com/WebAlexSolutions.png?size=240" alt="WebAlex Solutions" width="145" />
 </p>
 
 <h1 align="center">💻 WebAlex Solutions</h1>
 
 <p align="center">
-  <strong>Développement web sur mesure • Sites et applications web • Maintenance</strong>
+  <strong>Développement web sur mesure • Applications web • Maintenance</strong>
 </p>
 
 <p align="center">
   <a href="https://www.webalexsolutions.fr">🌐 Site officiel</a>
   &nbsp;•&nbsp;
-  <a href="mailto:infos@webalexsolutions.fr">📧 Me contacter</a>
+  <a href="mailto:infos@webalexsolutions.fr">📧 Contact</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Alexoune001">👤 Développeur</a>
 </p>
 
 ---
 
 ## 🏢 Présentation
 
-**WebAlex Solutions** est mon activité de **développeur web indépendant**, basée en France.
+**WebAlex Solutions** est mon activité professionnelle de **développeur web indépendant**, basée en France.
 
-Je conçois, développe et fais évoluer des sites et des applications **web** sur mesure pour les professionnels, indépendants, associations et porteurs de projets, avec une attention particulière portée à la qualité du code, à la sécurité et à la maintenance.
+Je conçois, développe, maintiens et fais évoluer des sites internet et des applications web sur mesure pour les entreprises, indépendants, associations et porteurs de projets.
 
-**Je travaille seul :** WebAlex Solutions est une entreprise individuelle, et non une agence ou une équipe de développeurs.
+Mon travail repose notamment sur :
+- La qualité et la maintenabilité du code.
+- La sécurité des applications et des données.
+- La compatibilité avec les différents appareils.
+- La stabilité des fonctionnalités existantes.
+- L'accompagnement technique et l'évolution des projets.
 
----
-
-## 🚀 Mes prestations de développement web
-
-- **🌐 Sites web sur mesure** : sites vitrines, plateformes web et interfaces responsives.
-- **⚙️ Applications web** : outils de gestion accessibles depuis un navigateur, espaces membres, interfaces d'administration et fonctionnalités spécifiques.
-- **🔗 API et intégrations web** : échanges de données, connexion de services et développement back-end.
-- **🛠️ Maintenance web** : corrections, mises à jour, optimisation et évolutions des sites et applications web.
-
-Chaque projet fait l'objet d'une approche adaptée à ses fonctionnalités et à ses contraintes.
+**WebAlex Solutions est une entreprise individuelle.** Je réalise personnellement les développements et ne représente pas une agence ou une équipe de développeurs.
 
 ---
 
-## 🧰 Technologies et outils
+## 🚀 Mes prestations
 
-| Domaine | Technologies |
-| --- | --- |
-| **Back-end web** | PHP, Symfony, MySQL |
-| **Front-end web** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Développement et versionnement** | Git, GitHub, Visual Studio, Visual Studio Code, Composer |
-| **Hébergement et déploiement** | Plesk, environnements web et déploiement Git |
+<details open>
+<summary><strong>🌐 Création de sites internet</strong></summary>
 
-Les technologies retenues dépendent des besoins de chaque projet web.
+Conception et développement de sites web sur mesure, sites vitrines, interfaces responsives et plateformes web.
 
----
+L'objectif est de proposer une solution adaptée aux besoins et à l'identité de chaque projet.
 
-## 🖥️ Mes projets et outils internes
+</details>
 
-En parallèle de mon activité de développeur web, je crée également des outils logiciels pour mes propres projets et les besoins de mon entreprise.
+<details>
+<summary><strong>⚙️ Développement d'applications web</strong></summary>
 
-**Ces logiciels ne constituent pas des prestations de développement proposées à mes clients.**
+Développement d'interfaces d'administration, d'espaces membres, de tableaux de bord, d'outils de gestion et de fonctionnalités métier accessibles depuis un navigateur.
 
-### 🌍 WebAlex Browser
+</details>
 
-Projet personnel de navigateur web pour Windows, développé avec **C#**, **.NET**, **Windows Forms** et **WebView2**, avec des fonctionnalités destinées notamment à faciliter mon travail de développement.
+<details>
+<summary><strong>🔗 API et intégrations</strong></summary>
 
-### 🖥️ WebAlex Local Server
+Développement d'API, intégration de services externes et mise en place de communications entre différentes applications web.
 
-Outil de développement web local pour Windows, conçu pour faciliter la gestion des environnements et des projets web.
+</details>
 
-### 🌐 Site officiel WebAlex Solutions
+<details>
+<summary><strong>🛠️ Maintenance et évolutions</strong></summary>
 
-Site de présentation et de gestion de mon activité, développé avec **Symfony**, et accessible à l'adresse [www.webalexsolutions.fr](https://www.webalexsolutions.fr).
+Corrections d'anomalies, mises à jour techniques, améliorations de performances, sécurisation et ajout de nouvelles fonctionnalités.
 
-Ces projets évoluent progressivement selon leurs propres cycles de développement.
-
----
-
-## 👥 Projets clients
-
-Je gère les projets réalisés pour mes clients séparément afin d'assurer :
-
-- la confidentialité des codes sources et des données ;
-- le suivi des demandes et des corrections ;
-- la traçabilité des versions et des modifications ;
-- la maintenance et l'évolution à long terme.
-
-**Les dépôts clients sont privés par défaut.** Leur accès est réservé aux personnes autorisées.
+</details>
 
 ---
 
-## 👤 À propos
+## 🧰 Technologies
 
-Je suis **[Alexoune001](https://github.com/Alexoune001)**, fondateur de **WebAlex Solutions** et **développeur web indépendant**.
+| Domaine | Technologies et outils |
+|---|---|
+| Back-end | PHP, Symfony |
+| Front-end | HTML5, CSS3, JavaScript, Bootstrap |
+| Base de données | MySQL |
+| Développement | Visual Studio, Visual Studio Code, Composer |
+| Versionnement | Git, GitHub |
+| Hébergement et déploiement | Plesk, environnements web, déploiement Git |
 
-Je réalise personnellement les prestations de développement web de mon entreprise, avec une attention particulière portée à la stabilité, à la maintenabilité et à la sécurité des projets.
+Les technologies sont choisies selon les besoins de chaque projet.
+
+---
+
+## 📁 Organisation des projets
+
+Cette organisation GitHub est désormais consacrée exclusivement aux activités et outils liés à **WebAlex Solutions**.
+
+<details open>
+<summary><strong>🏢 Site et infrastructure de l'entreprise</strong></summary>
+
+Le site officiel constitue le portail professionnel de WebAlex Solutions.
+
+🌐 [Découvrir le site officiel](https://www.webalexsolutions.fr)
+
+Son développement et ses évolutions sont suivis dans des dépôts privés afin de préserver les sources et la configuration technique.
+
+</details>
+
+<details>
+<summary><strong>👥 Projets clients</strong></summary>
+
+Les projets réalisés pour les clients sont organisés séparément.
+
+Chaque projet bénéficie d'un suivi indépendant pour les versions, les corrections et les évolutions.
+
+**Les dépôts clients sont privés et leur accès est limité aux personnes autorisées.**
+
+</details>
+
+<details>
+<summary><strong>🖥️ Outils et logiciels internes</strong></summary>
+
+En parallèle de mes prestations web, je développe plusieurs outils pour mes propres besoins techniques.
+
+### WebAlex Browser
+
+Navigateur web personnel pour Windows, développé avec C#, .NET, Windows Forms et WebView2.
+
+### WebAlex Local Server
+
+Application Windows destinée à faciliter le travail avec des environnements de développement web locaux.
+
+### WebAlex HomeLab
+
+Projet technique consacré à mes environnements et expérimentations d'infrastructure internes.
+
+**Ces outils sont des projets internes. Ils ne constituent pas des prestations de développement logiciel proposées aux clients.**
+
+</details>
 
 ---
 
 ## 🔒 Code source et confidentialité
 
-Cette organisation GitHub centralise les dépôts et le suivi technique de mon activité.
+Cette organisation contient principalement des dépôts privés liés à mon activité professionnelle.
 
-Elle regroupe notamment :
+- Les codes sources clients ne sont pas publiés.
+- Les informations confidentielles et les secrets de production ne sont pas exposés.
+- Les accès aux dépôts sont contrôlés.
+- Les versions et modifications sont suivies avec Git.
 
-- mes outils et logiciels internes ;
-- le site web et les projets techniques de mon entreprise ;
-- les projets web réalisés pour mes clients ;
-- des dépôts publics de démonstration ou de partage, lorsque leur publication est prévue.
-
-**Un dépôt privé reste accessible uniquement aux personnes autorisées.** La présence de projets publics ne signifie pas que tous mes codes sources sont librement réutilisables ou open source.
+Les dépôts publics de présentation ne donnent pas accès aux sources privées.
 
 ---
 
-## 📌 Organisation des développements
+## 👤 À propos du développeur
 
-J'utilise **Git et GitHub** pour suivre mes projets :
+Je suis **[Alexoune001](https://github.com/Alexoune001)**, fondateur et développeur de WebAlex Solutions.
 
-- branches dédiées aux fonctionnalités et corrections ;
-- Pull Requests et validation des modifications ;
-- historique des évolutions et des versions ;
-- préparation et contrôle des mises à jour.
+Je réalise mes développements web de manière indépendante et conçois également des projets personnels, notamment dans le domaine du logiciel et du jeu vidéo.
 
-Les informations sensibles, les données clients et les configurations de production ne sont pas publiées dans ce profil.
+Ces activités sont volontairement organisées dans des espaces GitHub distincts.
+
+### Mes autres espaces
+
+| Espace | Activité |
+|---|---|
+| [DrastalOnline](https://github.com/DrastalOnline) | Développement officiel du jeu Drastal Online |
+| [AlexouneProjects](https://github.com/AlexouneProjects) | Projets personnels, expérimentations et archives |
+| [Alexoune001](https://github.com/Alexoune001) | Profil GitHub personnel |
 
 ---
 
-## 📬 Contact
+## 📌 Méthode de développement
 
-Vous avez un projet de site web, d'application web ou un besoin de maintenance ?
+Je privilégie une organisation permettant de préserver l'existant et de suivre précisément les modifications :
 
-**Contactez-moi** pour échanger sur votre projet.
+- Analyse des besoins et des fonctionnalités.
+- Développement structuré et progressif.
+- Gestion des versions et des branches Git.
+- Vérifications et tests avant intégration.
+- Pull Requests lorsque nécessaires.
+- Maintenance, corrections et évolutions.
+
+---
+
+## 📬 Me contacter
+
+Vous avez besoin d'un site web, d'une application web ou d'une intervention de maintenance ?
 
 - 🌐 **Site officiel :** [www.webalexsolutions.fr](https://www.webalexsolutions.fr)
 - 📧 **Email :** [infos@webalexsolutions.fr](mailto:infos@webalexsolutions.fr)
@@ -135,28 +189,32 @@ Vous avez un projet de site web, d'application web ou un besoin de maintenance ?
 
 ## ❓ Questions fréquentes
 
-### Proposez-vous du développement web sur mesure ?
-
-Oui. J'adapte mes prestations de développement web aux besoins fonctionnels et techniques de chaque projet.
-
 ### Travaillez-vous seul ?
 
-Oui. Je suis développeur web indépendant et je gère personnellement mon activité WebAlex Solutions.
+Oui. WebAlex Solutions est mon activité indépendante et je réalise personnellement les développements.
 
-### Les dépôts des clients sont-ils publics ?
+### Proposez-vous des applications web sur mesure ?
 
-Non. Les projets clients sont privés par défaut et leurs accès sont contrôlés.
+Oui, selon les fonctionnalités et les besoins du projet.
 
-### Proposez-vous du développement de logiciels pour les clients ?
+### Les projets clients sont-ils publics ?
 
-Non. Mes prestations professionnelles concernent le **développement web**. Les logiciels présentés sur cette page sont des outils et projets que je développe pour mes propres besoins et ceux de mon entreprise.
+Non. Les dépôts de développement des clients sont privés.
 
-### Comment prendre contact ?
+### Proposez-vous du développement logiciel Windows pour les clients ?
 
-Par email ou depuis le [site officiel](https://www.webalexsolutions.fr).
+Non. Mes prestations professionnelles sont centrées sur le développement web. Les logiciels Windows présentés ici sont mes outils et projets internes.
 
 ---
 
 <p align="center">
-  ✨ Merci de votre intérêt pour <strong>WebAlex Solutions</strong>.
+  <strong>💻 WebAlex Solutions</strong>
+</p>
+
+<p align="center">
+  <em>Des solutions web adaptées à vos projets.</em>
+</p>
+
+<p align="center">
+  <sub>Développement web indépendant par <a href="https://github.com/Alexoune001">Alexoune001</a>.</sub>
 </p>
